@@ -1,0 +1,16 @@
+{
+  "name": "jsapp",
+  "version": "1.0.0",
+  "main": "math.js",
+  "scripts": {
+    "start": "node math.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
